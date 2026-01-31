@@ -37,4 +37,4 @@
 Требуется Python 3.12+
 
 ```bash
-python main.py
+python game.py
